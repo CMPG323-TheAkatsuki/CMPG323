@@ -8,6 +8,12 @@ const SubmissionSchema = mongoose.Schema(
                 ref: 'Assignment',
                 required: true
             },
+            video:{
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Video',
+                required: true
+
+            },
             submitter:{ // Need reference for the user that submitted the assignment
                 type: mongoose.Schema.Types.ObjectId,
                 ref: 'User',
