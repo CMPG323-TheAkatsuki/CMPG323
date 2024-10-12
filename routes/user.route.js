@@ -3,6 +3,9 @@ const User = require('../models/user.model.js'); // Importing the User model
 const router = express.Router();
 const bcrypt = require('bcryptjs');
 
+
+//CRUD check
+
 // This is to get all the list of Users
 router.get('/', async (req, res) => {
     try {
@@ -13,7 +16,7 @@ router.get('/', async (req, res) => {
     }
 });
 
-// This is to add a User
+// This is to add a User By the Admin
 router.post('/add', async (req, res) => {
     try {
         const { user_number, password, role } = req.body;
@@ -40,7 +43,7 @@ router.post('/add', async (req, res) => {
     }
 });
 
-// Look for a certain user and then update
+// Look for a certain user and then update by the Admin
 router.put('/update/:id', async (req, res) => {
     try {
         const { id } = req.params;
@@ -73,7 +76,7 @@ router.put('/update/:id', async (req, res) => {
     }
 });
 
-// Delete a user by user_number
+// Delete a user by user_number by the Admin
 router.delete('/delete/:user_number', async (req, res) => {
     try {
         const { user_number } = req.params; // Get user_number from the route parameters
@@ -89,5 +92,38 @@ router.delete('/delete/:user_number', async (req, res) => {
         res.status(500).json({ message: error.message }); // Handle any errors that occur
     }
 });
+
+// Endpoint to update password based on user_number and email
+// Endpoint to update password based on user_number, email, and old password
+router.post('/update-password', async (req, res) => {
+    try {
+        const { user_number, email, oldPassword, newPassword } = req.body;
+
+        // Find the user by user_number and email
+        const user = await User.findOne({ user_number, email });
+
+        if (!user) {
+            return res.status(404).json({ message: "User not found" }); // If not found, return a 404
+        }
+
+        // Check if the old password matches
+        const isMatch = await bcrypt.compare(oldPassword, user.password);
+        if (!isMatch) {
+            return res.status(400).json({ message: "Old password is incorrect" }); // If old password doesn't match, return an error
+        }
+
+        // Hash the new password
+        const hashedPassword = await bcrypt.hash(newPassword, 8);
+
+        // Update the user's password
+        user.password = hashedPassword;
+        await user.save(); // Save the updated user
+
+        res.status(200).json({ message: "Password updated successfully" }); // Respond with success
+    } catch (error) {
+        res.status(500).json({ message: error.message }); // Handle any errors that occur
+    }
+});
+
 
 module.exports = router;

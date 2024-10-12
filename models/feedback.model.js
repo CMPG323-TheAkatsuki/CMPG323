@@ -2,8 +2,8 @@ const mongoose = require('mongoose');
 
 const FeedbackSchema = mongoose.Schema(
     {
-            user_number:{ // This is the student
-                type: mongoose.Schema.Types.ObjectId,
+            student:{ // This is the student
+                type: mongoose.Schema.Types.String,
                 ref: 'User',
                 required: true
             },      
@@ -15,9 +15,9 @@ const FeedbackSchema = mongoose.Schema(
                 type: String,
                 required: true
             },
-            submission_id: {
+            module_id: {
                 type: mongoose.Schema.Types.ObjectId,
-                ref: 'Submission',
+                ref: 'Module',
                 required: true
             }
     }

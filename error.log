@@ -41,3 +41,13 @@
 {"level":"error","message":"JWT verification failed: invalid token"}
 {"level":"error","message":"Connection failed: bad auth : authentication failed"}
 {"level":"error","message":"Connection failed: URI contained empty userinfo section"}
+{"level":"error","message":"JWT verification failed: jwt must be provided"}
+{"level":"error","message":"JWT verification failed: jwt malformed"}
+{"level":"error","message":"JWT verification failed: jwt malformed"}
+{"level":"error","message":"Connection failed: Password cannot be empty"}
+{"level":"error","message":"Connection failed: bad auth : Authentication failed."}
+{"level":"error","message":"JWT verification failed: jwt expired"}
+{"level":"error","message":"JWT verification failed: jwt expired"}
+{"level":"error","message":"JWT verification failed: invalid signature"}
+{"level":"error","message":"JWT verification failed: invalid token"}
+{"level":"error","message":"JWT verification failed: jwt expired"}

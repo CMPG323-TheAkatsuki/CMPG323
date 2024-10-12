@@ -19,9 +19,9 @@ const AssignmentSchema = mongoose.Schema(
                 required: true
                 
             },
-            lecturer_id: { // Store the user_number instead of ObjectId
-                type: String, // Assuming user_number is a string in User schema
-                ref: 'User',  // Reference the User model
+            lecturer: { // Store the user_number instead of ObjectId
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'User',
                 required: true
             }    
         

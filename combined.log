@@ -471,3 +471,105 @@
 {"level":"info","message":"Connected to database!"}
 {"level":"info","message":"Server is running on port 5000"}
 {"level":"info","message":"User 987654321 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login for user_number: 123456789"}
+{"level":"warn","message":"Failed login for user_number: 123456789"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"info","message":"User 112233445 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 112233445 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login for user_number: 123456789"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"error","message":"JWT verification failed: jwt must be provided"}
+{"level":"error","message":"JWT verification failed: jwt malformed"}
+{"level":"error","message":"JWT verification failed: jwt malformed"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"error","message":"Connection failed: Password cannot be empty"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"error","message":"Connection failed: bad auth : Authentication failed."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"error","message":"JWT verification failed: jwt expired"}
+{"level":"error","message":"JWT verification failed: jwt expired"}
+{"level":"error","message":"JWT verification failed: invalid signature"}
+{"level":"error","message":"JWT verification failed: invalid token"}
+{"level":"error","message":"JWT verification failed: jwt expired"}
