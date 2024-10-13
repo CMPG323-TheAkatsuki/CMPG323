@@ -1,0 +1,602 @@
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"info","message":"::1 - - [27/Sep/2024:14:56:49 +0000] \"GET /protected HTTP/1.1\" 401 12 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0\""}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"info","message":"::1 - - [27/Sep/2024:14:57:08 +0000] \"GET /protected HTTP/1.1\" 401 12 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"::1 - - [27/Sep/2024:15:29:10 +0000] \"GET /metrics HTTP/1.1\" 200 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0\""}
+{"level":"info","message":"::1 - - [27/Sep/2024:15:30:35 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0\""}
+{"level":"info","message":"::1 - - [27/Sep/2024:15:32:42 +0000] \"GET /targets HTTP/1.1\" 404 146 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0\""}
+{"level":"info","message":"::1 - - [27/Sep/2024:15:32:47 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"::1 - - [27/Sep/2024:15:37:14 +0000] \"GET /metrics HTTP/1.1\" 200 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0\""}
+{"level":"info","message":"::1 - - [27/Sep/2024:17:02:28 +0000] \"GET /metrics HTTP/1.1\" 200 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Sep/2024:17:42:25 +0000] \"GET /students HTTP/1.1\" 404 147 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"error","message":"SyntaxError: Unexpected token ' in JSON at position 17\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)\n    at invokeCallback (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)"}
+{"level":"error","message":"SyntaxError: Unexpected token ' in JSON at position 17\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)\n    at invokeCallback (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)"}
+{"level":"error","message":"SyntaxError: Unexpected token ' in JSON at position 17\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)\n    at invokeCallback (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)"}
+{"level":"error","message":"SyntaxError: Unexpected token ' in JSON at position 17\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)\n    at invokeCallback (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)"}
+{"level":"error","message":"SyntaxError: Unexpected token ' in JSON at position 17\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)\n    at invokeCallback (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)"}
+{"level":"error","message":"SyntaxError: Unexpected token ' in JSON at position 17\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)\n    at invokeCallback (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Sep/2024:18:21:09 +0000] \"POST /add HTTP/1.1\" 404 143 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Sep/2024:18:21:58 +0000] \"POST /add HTTP/1.1\" 404 143 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Sep/2024:19:01:52 +0000] \"GET /api/students/ HTTP/1.1\" 404 152 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Sep/2024:19:15:39 +0000] \"GET / HTTP/1.1\" 200 45 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Sep/2024:19:20:35 +0000] \"DELETE /api/student/delete/66f6fef363b37f25b65c9f1b HTTP/1.1\" 404 185 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Sep/2024:19:21:48 +0000] \"DELETE /api/student/delete/66f6fef363b37f25b65c9f1b HTTP/1.1\" 404 185 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Sep/2024:19:23:00 +0000] \"DELETE /api/student/delete/66f6fef363b37f25b65c9f1b HTTP/1.1\" 404 185 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Sep/2024:19:26:28 +0000] \"DELETE /api/student/delete/66f6fef363b37f25b65c9f1b/ HTTP/1.1\" 404 186 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Sep/2024:19:26:43 +0000] \"DELETE /api/student/delete/66f6fef363b37f25b65c9f1b/ HTTP/1.1\" 404 186 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Sep/2024:20:40:55 +0000] \"PUT /api/assignment/add HTTP/1.1\" 404 157 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Sep/2024:20:41:34 +0000] \"PUT /api/assignment/add/ HTTP/1.1\" 404 158 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Sep/2024:20:50:30 +0000] \"DELETE /api/assignment/update/63g23473e237ye23 HTTP/1.1\" 404 180 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Sep/2024:20:52:10 +0000] \"DELETE /api/assignment/update/63g23473e237ye23 HTTP/1.1\" 404 180 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Sep/2024:20:52:58 +0000] \"DELETE /api/assignment/update/66f71a3247faed40257d7291 HTTP/1.1\" 404 188 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Sep/2024:20:54:19 +0000] \"GET /api/assignment/delete/66f71a3247faed40257d729 HTTP/1.1\" 404 184 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"::1 - - [02/Oct/2024:10:28:58 +0000] \"GET / HTTP/1.1\" 200 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0\""}
+{"level":"info","message":"::1 - - [02/Oct/2024:10:28:58 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"http://localhost:5000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0\""}
+{"level":"info","message":"::1 - - [02/Oct/2024:10:29:07 +0000] \"GET /api/users HTTP/1.1\" 404 148 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0\""}
+{"level":"info","message":"::1 - - [02/Oct/2024:10:29:26 +0000] \"GET /login HTTP/1.1\" 404 144 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: undefined"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:30:08 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: undefined"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:30:24 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: undefined"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:30:25 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login attempt for user: undefined"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:31:37 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: undefined"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:31:38 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: undefined"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:31:48 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User testuser logged in successfully."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:33:11 +0000] \"POST /login HTTP/1.1\" 200 169 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"JWT verification failed: jwt expired"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:33:38 +0000] \"GET /protected HTTP/1.1\" 403 9 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"JWT verification failed: jwt expired"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:34:01 +0000] \"GET /protected HTTP/1.1\" 403 9 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"JWT verification failed: jwt expired"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:34:26 +0000] \"GET /protected HTTP/1.1\" 403 9 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"JWT verification failed: jwt expired"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:34:27 +0000] \"GET /protected HTTP/1.1\" 403 9 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"User testuser logged in successfully."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:34:37 +0000] \"POST /login HTTP/1.1\" 200 169 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"User testuser logged in successfully."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:34:39 +0000] \"POST /login HTTP/1.1\" 200 169 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:35:37 +0000] \"GET /protected HTTP/1.1\" 200 56 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User Admin logged in successfully."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:36:46 +0000] \"POST /login HTTP/1.1\" 200 165 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:37:11 +0000] \"GET /protected HTTP/1.1\" 200 53 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"SyntaxError: Unexpected token ' in JSON at position 11\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)\n    at invokeCallback (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)"}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User Admin logged in successfully."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:39:41 +0000] \"POST /login HTTP/1.1\" 200 165 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:39:58 +0000] \"GET /protected HTTP/1.1\" 200 53 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"SyntaxError: Unexpected token ' in JSON at position 11\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)\n    at invokeCallback (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login attempt for user: Admin"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:48:42 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: Admin"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:48:59 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:49:16 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:49:36 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"error","message":"Error: Illegal arguments: undefined, string\n    at Object.bcrypt.hashSync (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\bcryptjs\\dist\\bcrypt.js:189:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\index.js:96:30\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\application.js:240:9"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:53:45 +0000] \"POST /login HTTP/1.1\" 500 16 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"Error: Illegal arguments: undefined, string\n    at Object.bcrypt.hashSync (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\bcryptjs\\dist\\bcrypt.js:189:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\index.js:96:30\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\application.js:240:9"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:53:48 +0000] \"POST /login HTTP/1.1\" 500 16 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"Error: Illegal arguments: undefined, string\n    at Object.bcrypt.hashSync (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\bcryptjs\\dist\\bcrypt.js:189:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\index.js:96:30\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\application.js:240:9"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:53:49 +0000] \"POST /login HTTP/1.1\" 500 16 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"Error: Illegal arguments: undefined, string\n    at Object.bcrypt.hashSync (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\bcryptjs\\dist\\bcrypt.js:189:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\index.js:96:30\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\application.js:240:9"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:53:50 +0000] \"POST /login HTTP/1.1\" 500 16 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"Error: Illegal arguments: undefined, string\n    at Object.bcrypt.hashSync (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\bcryptjs\\dist\\bcrypt.js:189:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\index.js:96:30\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\application.js:240:9"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:53:50 +0000] \"POST /login HTTP/1.1\" 500 16 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"Error: Illegal arguments: undefined, string\n    at Object.bcrypt.hashSync (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\bcryptjs\\dist\\bcrypt.js:189:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\index.js:96:30\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\application.js:240:9"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:53:51 +0000] \"POST /login HTTP/1.1\" 500 16 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"Error: Illegal arguments: undefined, string\n    at Object.bcrypt.hashSync (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\bcryptjs\\dist\\bcrypt.js:189:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\index.js:96:30\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\application.js:240:9"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:53:51 +0000] \"POST /login HTTP/1.1\" 500 16 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"Error: Illegal arguments: undefined, string\n    at Object.bcrypt.hashSync (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\bcryptjs\\dist\\bcrypt.js:189:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\index.js:96:30\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\application.js:240:9"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:53:51 +0000] \"POST /login HTTP/1.1\" 500 16 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"Error: Illegal arguments: undefined, string\n    at Object.bcrypt.hashSync (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\bcryptjs\\dist\\bcrypt.js:189:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\index.js:96:30\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\application.js:240:9"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:53:51 +0000] \"POST /login HTTP/1.1\" 500 16 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"Error: Illegal arguments: undefined, string\n    at Object.bcrypt.hashSync (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\bcryptjs\\dist\\bcrypt.js:189:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\index.js:96:30\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\application.js:240:9"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:53:51 +0000] \"POST /login HTTP/1.1\" 500 16 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"Error: Illegal arguments: undefined, string\n    at Object.bcrypt.hashSync (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\bcryptjs\\dist\\bcrypt.js:189:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\index.js:96:30\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\application.js:240:9"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:53:52 +0000] \"POST /login HTTP/1.1\" 500 16 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"Error: Illegal arguments: undefined, string\n    at Object.bcrypt.hashSync (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\bcryptjs\\dist\\bcrypt.js:189:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\index.js:96:30\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\application.js:240:9"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:53:52 +0000] \"POST /login HTTP/1.1\" 500 16 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"Error: Illegal arguments: undefined, string\n    at Object.bcrypt.hashSync (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\bcryptjs\\dist\\bcrypt.js:189:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\index.js:96:30\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\application.js:240:9"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:53:52 +0000] \"POST /login HTTP/1.1\" 500 16 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"Error: Illegal arguments: undefined, string\n    at Object.bcrypt.hashSync (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\bcryptjs\\dist\\bcrypt.js:189:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\index.js:96:30\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\application.js:240:9"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:53:52 +0000] \"POST /login HTTP/1.1\" 500 16 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"Error: Illegal arguments: undefined, string\n    at Object.bcrypt.hashSync (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\bcryptjs\\dist\\bcrypt.js:189:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\index.js:96:30\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\express\\lib\\application.js:240:9"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:54:01 +0000] \"POST /login HTTP/1.1\" 500 16 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:55:14 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:56:11 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:56:12 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:56:13 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:56:14 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:56:14 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:56:14 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:56:14 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:56:15 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:56:15 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:56:15 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:56:15 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:10:56:15 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:01:43 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:01:57 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:01:58 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:02:03 +0000] \"GET / HTTP/1.1\" 200 45 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:02:19 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:03:28 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:03:29 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:03:30 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:03:30 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:03:31 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:03:32 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:03:32 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:03:33 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:03:33 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:03:33 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:03:33 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:03:34 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:03:34 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:03:34 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:03:34 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:03:35 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:04:59 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:08:50 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:08:56 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:09:55 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:09:56 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:16:18 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:16:39 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:16:40 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:16:41 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:16:41 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:16:42 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:16:42 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:16:42 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:16:42 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:16:43 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:16:43 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User AdminTheGoat logged in successfully."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:11:20:14 +0000] \"POST /login HTTP/1.1\" 200 175 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"::1 - - [02/Oct/2024:12:17:39 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0\""}
+{"level":"info","message":"::1 - - [02/Oct/2024:12:17:40 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"http://localhost:5000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:12:18:09 +0000] \"GET / HTTP/1.1\" 200 45 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Failed login attempt for user: AdminTheGoat"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:12:19:00 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"User AdminTheGoat logged in successfully."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:12:19:07 +0000] \"POST /login HTTP/1.1\" 200 175 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"JWT verification failed: invalid signature"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:12:19:34 +0000] \"GET /protected HTTP/1.1\" 403 9 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2024:12:19:47 +0000] \"GET /protected HTTP/1.1\" 200 60 \"-\" \"insomnia/10.0.0\""}
+{"level":"error","message":"SyntaxError: Unexpected token } in JSON at position 56\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)\n    at invokeCallback (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\kyleo\\OneDrive\\Documents\\HMS 2 Backend\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)"}
+{"level":"info","message":"::1 - - [02/Oct/2024:12:32:26 +0000] \"GET /metrics HTTP/1.1\" 200 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0\""}
+{"level":"info","message":"::1 - - [02/Oct/2024:12:35:23 +0000] \"GET // HTTP/1.1\" 404 140 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2024:20:45:02 +0000] \"GET /api/student/ HTTP/1.1\" 401 12 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Login attempt failed: user with student number undefined not found."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2024:20:48:46 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Login attempt failed: user with student number undefined not found."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2024:20:57:40 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Login attempt failed: user with student number undefined not found."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2024:20:57:42 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Login attempt failed: user with student number undefined not found."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2024:20:58:35 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Login attempt failed: user with student number undefined not found."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2024:21:00:59 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Login attempt failed: user with student number undefined not found."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2024:21:01:05 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Login attempt failed: user with student number undefined not found."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2024:21:04:42 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2024:21:05:01 +0000] \"GET / HTTP/1.1\" 200 45 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2024:21:17:45 +0000] \"POST /api/student/register HTTP/1.1\" 401 12 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User AdminTheGoat logged in successfully."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2024:22:05:25 +0000] \"POST /login HTTP/1.1\" 200 175 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User AdminTheGoat logged in successfully."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2024:22:18:25 +0000] \"POST /login HTTP/1.1\" 200 175 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Login attempt with invalid user_number: undefined"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [06/Oct/2024:23:22:32 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Login attempt with invalid user_number: undefined"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [06/Oct/2024:23:23:37 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Login attempt with invalid user_number: undefined"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [06/Oct/2024:23:28:36 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Login attempt with invalid user_number: undefined"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [06/Oct/2024:23:28:54 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Login attempt with invalid user_number: undefined"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [06/Oct/2024:23:28:56 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"warn","message":"Login attempt with invalid user_number: undefined"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [06/Oct/2024:23:28:57 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"User with user_number: undefined not found."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [06/Oct/2024:23:35:02 +0000] \"POST /login HTTP/1.1\" 401 33 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"User 33744998 logged in successfully."}
+{"level":"info","message":"::ffff:127.0.0.1 - - [06/Oct/2024:23:51:56 +0000] \"POST /login HTTP/1.1\" 200 196 \"-\" \"insomnia/10.0.0\""}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 33744998 logged in successfully."}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 33744998 logged in successfully."}
+{"level":"info","message":"User 33744998 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 33744998 logged in successfully."}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"info","message":"User 33744998 logged in successfully."}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 33744998 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 33744998 logged in successfully."}
+{"level":"error","message":"JWT verification failed: jwt malformed"}
+{"level":"error","message":"Connection failed: bad auth : Authentication failed."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 33744998 logged in successfully."}
+{"level":"error","message":"JWT verification failed: invalid token"}
+{"level":"error","message":"JWT verification failed: invalid token"}
+{"level":"error","message":"JWT verification failed: invalid token"}
+{"level":"info","message":"User 33744998 logged in successfully."}
+{"level":"error","message":"JWT verification failed: invalid token"}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 33744998 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login attempt for user_number: 123456789"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login attempt for user_number: 123456789"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login attempt for user_number: 123456789"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login attempt for user_number: 123456789"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login attempt for user_number: 123456789, password: password123"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login for user_number: 123456789"}
+{"level":"warn","message":"Failed login for user_number: 123456789"}
+{"level":"warn","message":"Failed login for user_number: 123456789"}
+{"level":"warn","message":"Failed login for user_number: 112233445"}
+{"level":"warn","message":"Failed login for user_number: 123456789"}
+{"level":"warn","message":"Failed login for user_number: 123456789"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login for user_number: 123456789"}
+{"level":"warn","message":"Failed login for user_number: 123456789"}
+{"level":"warn","message":"Failed login for user_number: 123456789"}
+{"level":"warn","message":"Failed login for user_number: 123456789"}
+{"level":"warn","message":"Failed login for user_number: 123456789"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"error","message":"JWT verification failed: jwt expired"}
+{"level":"error","message":"JWT verification failed: jwt expired"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"error","message":"JWT verification failed: jwt expired"}
+{"level":"error","message":"JWT verification failed: invalid token"}
+{"level":"error","message":"JWT verification failed: invalid token"}
+{"level":"error","message":"JWT verification failed: invalid token"}
+{"level":"error","message":"Connection failed: bad auth : authentication failed"}
+{"level":"error","message":"Connection failed: URI contained empty userinfo section"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 987654321 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 987654321 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 987654321 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login for user_number: 123456789"}
+{"level":"warn","message":"Failed login for user_number: 123456789"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"info","message":"User 112233445 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 112233445 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"warn","message":"Failed login for user_number: 123456789"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"warn","message":"No token provided for authentication."}
+{"level":"error","message":"JWT verification failed: jwt must be provided"}
+{"level":"error","message":"JWT verification failed: jwt malformed"}
+{"level":"error","message":"JWT verification failed: jwt malformed"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"error","message":"Connection failed: Password cannot be empty"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"error","message":"Connection failed: bad auth : Authentication failed."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"error","message":"JWT verification failed: jwt expired"}
+{"level":"error","message":"JWT verification failed: jwt expired"}
+{"level":"error","message":"JWT verification failed: invalid signature"}
+{"level":"error","message":"JWT verification failed: invalid token"}
+{"level":"error","message":"JWT verification failed: jwt expired"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"error","message":"JWT verification failed: jwt expired"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
+{"level":"info","message":"Connected to database!"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"User 123456789 logged in successfully."}
